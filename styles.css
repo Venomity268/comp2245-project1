@@ -30,3 +30,18 @@ body {
     max-width: 960px;
     width: 100%;
 }
+
+.overview-hero {
+    display: flex;
+    background-color: #E2E8F0;
+    padding: 20px;
+}
+
+.overview-hero-image img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.overview-hero-text {
+    padding-left: 20px;
+}
