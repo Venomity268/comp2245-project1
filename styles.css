@@ -85,3 +85,24 @@ body {
     border-radius: 5px;
     text-decoration: none;
 }
+
+.stories {
+    padding: 20px 0;
+}
+
+.stories h2, .stories a {
+    color: #5A67D8;
+}
+
+.stories article {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.stories img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
