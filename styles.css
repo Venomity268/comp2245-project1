@@ -45,3 +45,26 @@ body {
 .overview-hero-text {
     padding-left: 20px;
 }
+
+.learn-about .container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.learn-about h2 {
+    color: #48BB78;
+    font-size: 24px;
+}
+
+.card {
+    border: 1px solid #E2E8F0;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+}
+
+.card h3 {
+    color: #48BB78;
+    font-size: 21px;
+}
