@@ -126,6 +126,10 @@ body {
     color: #5A67D8;
 }
 
+.stories h3 {
+    font-size: 18px;
+}
+
 .stories article {
     display: flex;
     align-items: center;
